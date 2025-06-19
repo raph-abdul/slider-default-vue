@@ -1,8 +1,9 @@
-# Slider Super d'App
+# Slider Super d'App 
+
 
 Slider is the first self-proclaimed super d'app (super duper app).
 
-## GET slider.services
+## [GET slider.services/](https://slider.services)
 Easy to integrate, open-source services.
 
 ```json
@@ -20,7 +21,7 @@ Easy to integrate, open-source services.
       "service": "Blockchain tracker integrations."
     },
     {
-      "domain": "slider.cx",
+      "domain": "slider.crypto",
       "service":"Open-source crypto exchange."
     },
     {
@@ -32,7 +33,7 @@ Easy to integrate, open-source services.
 ```
 
 
-## GET slider.dev
+## [GET slider.technology/](https://slider.technology)
 Extensive API and SDK libraries for seamless cross-platform integration.
 
 ```json
