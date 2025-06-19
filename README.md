@@ -17,7 +17,7 @@ Easy to integrate, open-source services.
     },
     {
       "domain": "slider.network",
-      "service": "Blockchain tracker Integrations."
+      "service": "Blockchain tracker integrations."
     },
     {
       "domain": "slider.cx",
@@ -36,16 +36,11 @@ Easy to integrate, open-source services.
 Extensive API and SDK libraries for seamless cross-platform integration.
 
 ```json
-{"name": "Slider",
-"type": "Super d'App",   
-"supported-languages": [
-"Golang",
-"PHP", 
-"Python", 
-"NodeJS", 
-"React", 
-"VueJS"
-]}
+{
+  "name": "Slider",
+  "type": "Super d'App",   
+  "supported-languages": ["Golang", "PHP", "Python", "NodeJS", "React", "VueJS"]
+}
 ```
 
 Computers don't make mistakes.
