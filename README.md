@@ -17,8 +17,7 @@ Response
 "Blockchain tools",
 "Social Media APIs",
 "AI Integration"
-]
-}
+]}
 ```
 
 Extensive API and SDK libraries for seamless cross-platform integration.
@@ -34,8 +33,7 @@ Extensive API and SDK libraries for seamless cross-platform integration.
 "NodeJS", 
 "React", 
 "VueJS"
-]
-}
+]}
 ```
 
 , SDKs, API libraries)
