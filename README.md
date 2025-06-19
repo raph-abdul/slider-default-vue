@@ -7,8 +7,7 @@ Slider is the first self-proclaimed super d'app (super duper app).
 Response
 
 ```json
-{ 
-"name": "Slider",
+{"name": "Slider",
 "type": "Super d'App",   
 "services": [
 "Domain look up",
@@ -22,9 +21,10 @@ Response
 
 Extensive API and SDK libraries for seamless cross-platform integration.
 
+## GET slider.dev
+
 ```json
-{ 
-"name": "Slider",
+{"name": "Slider",
 "type": "Super d'App",   
 "supported-languages": [
 "Golang",
@@ -36,4 +36,4 @@ Extensive API and SDK libraries for seamless cross-platform integration.
 ]}
 ```
 
-, SDKs, API libraries)
+Computers don't make mistakes.
