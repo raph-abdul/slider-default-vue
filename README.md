@@ -19,22 +19,22 @@ Easy to integrate, open-source services.
       "repository": "github.com/slider/slider-monster"  
     },
     {
-      "domain": "slider.network",
-      "service": "Blockchain tracker integrations.",
-      "documentation": "github.com/slider/slider.network",
-      "repository": "github.com/slider/slider-network"  
-    },
-    {
-      "domain": "slider.crypto",
-      "service":"Open-source crypto exchange.",
-      "documentation": "github.com/slider/slider.crypto",
-      "repository": "github.com/slider/slider-crypto"  
-    },
-    {
       "domain": "slider.social",
-      "service":"Decentralised social network.",
+      "service":"Decentralised social media.",
       "documentation": "github.com/slider/slider.social",
       "repository": "github.com/slider/slider-social"  
+    },
+    {
+      "domain": "slider.cx",
+      "service":"Open-source crypto exchange.",
+      "documentation": "github.com/slider/slider.cx",
+      "repository": "github.com/slider/slider-cx"  
+    },
+    {
+      "domain": "slider.network",
+      "service": "Blockchain network tracker.",
+      "documentation": "github.com/slider/slider.network",
+      "repository": "github.com/slider/slider-network"  
     }
   ]
 }
