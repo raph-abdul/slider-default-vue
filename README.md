@@ -1,6 +1,10 @@
-# Slider Services
+# Slider Super d'App
 
-Slider is the first self-proclaimed Super d'App (super duper app)/
+Slider is the first self-proclaimed super d'app (super duper app).
+
+## GET slider.services
+
+Response
 
 ```json
 { 
@@ -17,8 +21,21 @@ Slider is the first self-proclaimed Super d'App (super duper app)/
 }
 ```
 
-Extensive API and SDK libraries for seamless cross-platform integration/
+Extensive API and SDK libraries for seamless cross-platform integration.
 
-Golang, 
-PHP, 
-Python, NodeJS, React, VueJS, SDKs, API libraries)
+```json
+{ 
+"name": "Slider",
+"type": "Super d'App",   
+"supported-languages": [
+"Golang",
+"PHP", 
+"Python", 
+"NodeJS", 
+"React", 
+"VueJS"
+]
+}
+```
+
+, SDKs, API libraries)
