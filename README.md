@@ -14,7 +14,7 @@ Easy to integrate, open-source services.
   [
     {  
       "domain": "slider.monster",
-      "service": "Comprehensive web3 domain look up (.wallet, .locker, .blockchain)",
+      "service": "Comprehensive web3 domain look-up (.wallet, .locker, .blockchain)",
       "documentation": "github.com/slider/slider.monster",
       "repository": "github.com/slider/slider-monster"  
     },
