@@ -3,8 +3,7 @@
 Slider is the first self-proclaimed super d'app (super duper app).
 
 ## GET slider.services
-
-Response
+Easy to integrate, open-source services.
 
 ```json
 {"name": "Slider",
@@ -19,9 +18,9 @@ Response
 ]}
 ```
 
-Extensive API and SDK libraries for seamless cross-platform integration.
 
 ## GET slider.dev
+Extensive API and SDK libraries for seamless cross-platform integration.
 
 ```json
 {"name": "Slider",
