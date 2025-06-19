@@ -6,16 +6,29 @@ Slider is the first self-proclaimed super d'app (super duper app).
 Easy to integrate, open-source services.
 
 ```json
-{"name": "Slider",
+{
+"name": "Slider",
 "type": "Super d'App",   
-"services": [
-"Domain look up",
-"Blockchain tracker", 
-"Crypto Exchange", 
-"Blockchain tools",
-"Social Media APIs",
-"AI Integration"
-]}
+"services":
+  [
+    {  
+      "domain": "slider.monster",
+      "service": "Comprehensive domain look up."
+    },
+    {
+      "domain": "slider.network",
+      "service": "Blockchain tracker Integrations."
+    },
+    {
+      "domain": "slider.cx",
+      "service":"Open-source crypto exchange."
+    },
+    {
+      "domain": "slider.social",
+      "service":"Decentralised social network."
+    }
+  ]
+}
 ```
 
 
