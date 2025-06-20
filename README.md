@@ -13,27 +13,31 @@ Easy to integrate, open-source services.
 "description": "Intuitive web2/web3 services. TLD specific, open-source, self-contained."  
 "services":
   [
-    {  
+    {
+      "name": "Slider AI"   
       "domains": ["slider.guru", "slider.coach"]
-      "service": "Comprehensive AI powered web3 domain look-up (.wallet, .locker, .blockchain)",
+      "description": "Slider AI Solutions. Comprehensive AI powered web3 domain look-up (.wallet, .locker, .blockchain)",
       "documentation": "github.com/slider/slider.guru",
       "repository": "github.com/slider/slider-monster"  
     },
     {
+      "name": "Slider Network"  
       "domains": ["slider.social", "slider.network"],
-      "service":"Open-source social network app.",
+      "description":"Slider Social Network Solutions. Open-source social network app.",
       "documentation": "github.com/slider/slider.network",
       "repository": "github.com/slider/slider-social"  
     },
     {
-      "domains": ["slider.cx", "slider.capital"],
-      "service":"Open-source crypto exchange.",
+      "name": "Slider Exchange"  
+      "domains": ["slider.capital", "slider.money", "slider.cx"],
+      "description":"Slider Crypto Exchange Solutions. Open-source crypto exchange.",
       "documentation": "github.com/slider/slider.cx",
       "repository": "github.com/slider/slider-cx"  
     },
     {
+      "name": "Slider Blockchain" 
       "domains": ["slider.locker", "slider.ink"] ,
-      "service": "Blockchain tracker integration with SLASH.locker/ API.",
+      "description": "Blockchain tracker integration with SLASH.locker/ API.",
       "documentation": "github.com/slider/slider.locker",
       "repository": "github.com/slider/slider-locker"  
     }
