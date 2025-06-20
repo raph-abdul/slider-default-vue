@@ -15,7 +15,7 @@ Open-source web2/web3 services. Seamless integration.
     {
       "name": "Slider AI"   
       "domains": ["slider.guru", "slider.coach"]
-      "description": "Slider AI Solution. Comprehensive open-source integrations",
+      "description": "Slider AI Solution. Comprehensive open-source integrations.",
       "documentation": "github.com/slider/slider.ai",
       "repository": "github.com/slider/slider-monster"  
     },
