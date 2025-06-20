@@ -63,4 +63,4 @@ Extensive API and SDK libraries for seamless cross-platform integration.
 }
 ```
 
-Slider is transparency-first and human-centric endeavour.
+Transparency-first and human-centric.
