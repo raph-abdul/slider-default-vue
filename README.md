@@ -16,8 +16,8 @@ Easy to integrate, open-source services.
     {
       "name": "Slider AI"   
       "domains": ["slider.guru", "slider.coach"]
-      "description": "Slider AI Solutions. Comprehensive AI powered web3 domain look-up (.wallet, .locker, .blockchain)",
-      "documentation": "github.com/slider/slider.guru",
+      "description": "Slider AI Solution. Comprehensive AI powered web3 domain look-up (.wallet, .locker, .blockchain)",
+      "documentation": "github.com/slider/slider.ai",
       "repository": "github.com/slider/slider-monster"  
     },
     {
@@ -30,15 +30,15 @@ Easy to integrate, open-source services.
     {
       "name": "Slider Exchange"  
       "domains": ["slider.capital", "slider.money", "slider.cx"],
-      "description":"Slider Crypto Exchange Solutions. Open-source crypto exchange.",
-      "documentation": "github.com/slider/slider.cx",
+      "description":"Slider Crypto Exchange Solution. Open-source crypto exchange.",
+      "documentation": "github.com/slider/slider.exchange",
       "repository": "github.com/slider/slider-cx"  
     },
     {
       "name": "Slider Blockchain" 
       "domains": ["slider.locker", "slider.ink"] ,
-      "description": "Blockchain tracker integration with SLASH.locker/ API.",
-      "documentation": "github.com/slider/slider.locker",
+      "description": "Slider Blockchain Solution. Blockchain tracker integration with SLASH.locker/ API.",
+      "documentation": "github.com/slider/slider.blockchain",
       "repository": "github.com/slider/slider-locker"  
     }
   ]
