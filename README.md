@@ -32,7 +32,7 @@ Easy to integrate, open-source services.
       "repository": "github.com/slider/slider-cx"  
     },
     {
-      "domains": ["slider.locker", "slider.channel" ,
+      "domains": ["slider.locker", "slider.ink"] ,
       "service": "Blockchain tracker integration with SLASH.locker/ API.",
       "documentation": "github.com/slider/slider.locker",
       "repository": "github.com/slider/slider-locker"  
@@ -47,7 +47,7 @@ Extensive API and SDK libraries for seamless cross-platform integration.
 
 ```json
 {
-  "domain": "slider.technology",
+  "domains": ["slider.technology", "slider.software"], 
   "type": "super.dupper.app",   
   "supported-languages": ["Golang", "PHP", "Python", "NodeJS", "React", "VueJS"]
 }
