@@ -9,7 +9,7 @@ Easy to integrate, open-source services.
 ```json
 {
 "name": "Slider",
-"type": "super.dupper.app",
+"type": "super.duper.app",
 "description": "Intuitive web2/web3 services. TLD specific, open-source, self-contained."  
 "services":
   [
