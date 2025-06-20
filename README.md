@@ -16,7 +16,7 @@ Easy to integrate, open-source services.
     {
       "name": "Slider AI"   
       "domains": ["slider.guru", "slider.coach"]
-      "description": "Slider AI Solution. Comprehensive AI powered web3 domain look-up (.wallet, .locker, .blockchain)",
+      "description": "Slider AI Solution. Comprehensive open-source integrations",
       "documentation": "github.com/slider/slider.ai",
       "repository": "github.com/slider/slider-monster"  
     },
