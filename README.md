@@ -20,7 +20,7 @@ Open-source web2/web3 services. Seamless integration.
       "repository": "github.com/slider/slider-monster"  
     },
     {
-      "name": "Slider Network"  
+      "name": "Slider Social Network"  
       "domains": ["slider.social", "slider.network"],
       "description":"Slider Social Network Solutions. Open-source social network app.",
       "documentation": "github.com/slider/slider.network",
@@ -41,7 +41,7 @@ Open-source web2/web3 services. Seamless integration.
       "repository": "github.com/slider/slider-locker"  
     },
     {
-      "name": "Slider API Integrations" 
+      "name": "Slider API Integration" 
       "domains": ["slider.software", "slider.solutions"] ,
       "description": "Slider API Solution. API libraries and integration.",
       "documentation": "github.com/slider/slider.software",
