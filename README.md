@@ -58,7 +58,7 @@ Extensive API and SDK libraries for seamless cross-platform integration.
 ```json
 {
   "domains": ["slider.technology", "slider.software"], 
-  "type": "super.dupper.app",   
+  "type": "super.duper.app",   
   "supported-languages": ["Golang", "PHP", "Python", "NodeJS", "React", "VueJS"]
 }
 ```
