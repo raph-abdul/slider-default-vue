@@ -1,5 +1,4 @@
-# Slider Super d'App 
-
+# Slider Super d'App
 
 Slider is the first self-proclaimed super d'app (super duper app).
 
@@ -10,7 +9,7 @@ Open-source web2/web3 services. Seamless integration.
 {
 "name": "Slider",
 "type": "super.duper.app",
-"description": "Intuitive web2/web3 services. TLD specific, open-source, self-contained."  
+"description": "Intuitive web2/web3 services. Domain specific, open-source, self-contained."  
 "services":
   [
     {
@@ -40,6 +39,13 @@ Open-source web2/web3 services. Seamless integration.
       "description": "Slider Blockchain Solution. Blockchain tracker integration with SLASH.locker/ API.",
       "documentation": "github.com/slider/slider.blockchain",
       "repository": "github.com/slider/slider-locker"  
+    },
+    {
+      "name": "Slider API Integrations" 
+      "domains": ["slider.software", "slider.solutions"] ,
+      "description": "Slider API Solution. API libraries and integration.",
+      "documentation": "github.com/slider/slider.software",
+      "repository": "github.com/slider/slider-software"  
     }
   ]
 }
@@ -57,4 +63,4 @@ Extensive API and SDK libraries for seamless cross-platform integration.
 }
 ```
 
-Computers don't make mistakes.
+Slider is transparency-first and human-centric endeavour.
