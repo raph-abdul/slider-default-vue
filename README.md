@@ -9,7 +9,7 @@ Easy to integrate, open-source services.
 ```json
 {
 "name": "Slider",
-"type": "Super d'App",   
+"type": "super.dupper.app",   
 "services":
   [
     {  
@@ -46,8 +46,8 @@ Extensive API and SDK libraries for seamless cross-platform integration.
 
 ```json
 {
-  "name": "Slider",
-  "type": "Super d'App",   
+  "domain": "slider.technology",
+  "type": "super.dupper.app",   
   "supported-languages": ["Golang", "PHP", "Python", "NodeJS", "React", "VueJS"]
 }
 ```
