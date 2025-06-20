@@ -19,9 +19,9 @@ Easy to integrate, open-source services.
       "repository": "github.com/slider/slider-monster"  
     },
     {
-      "domain": "slider.social",
-      "service":"Decentralised social media.",
-      "documentation": "github.com/slider/slider.social",
+      "domain": "slider.network",
+      "service":"Open-source social network app.",
+      "documentation": "github.com/slider/slider.network",
       "repository": "github.com/slider/slider-social"  
     },
     {
@@ -31,10 +31,10 @@ Easy to integrate, open-source services.
       "repository": "github.com/slider/slider-cx"  
     },
     {
-      "domain": "slider.network",
-      "service": "Blockchain network tracker.",
-      "documentation": "github.com/slider/slider.network",
-      "repository": "github.com/slider/slider-network"  
+      "domain": "slider.locker",
+      "service": "Blockchain tracker integration with SLASH.locker/ API.",
+      "documentation": "github.com/slider/slider.locker",
+      "repository": "github.com/slider/slider-locker"  
     }
   ]
 }
