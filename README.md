@@ -4,7 +4,7 @@
 Slider is the first self-proclaimed super d'app (super duper app).
 
 ## [GET slider.services/](https://slider.services)
-Easy to integrate, open-source services.
+Seamless integration. Open-source web2/web3 services.
 
 ```json
 {
